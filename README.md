@@ -1,17 +1,20 @@
-# Hi, I'm Denis Sefer 👋
+# Denis Sefer
 
-Junior Full-Stack Developer in Brussels, Belgium. I specialize in HTML, CSS, JavaScript, Node.js, and PHP.
+Digital professional based in Brussels, working across technical support, web development, and digital communications.
 
-## 🚀 Skills
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: PHP, Node.js
-- **Tools**: Git, WordPress, VS Code, Figma
-- **Databases**: MySQL, MariaDB
+My experience combines software troubleshooting and customer support with the development of modern, responsive websites. I enjoy using technical and creative skills to build practical digital solutions and deliver a clear user experience.
 
-## 📞 Reach Me
-- Email: [sefer.denis@yahoo.com](mailto:sefer.denis@yahoo.com)
-- LinkedIn: [Denis Sefer](https://www.linkedin.com/in/denis-sefer-9693501a9/)
+## Areas of Expertise
 
-## 📌 Fun Fact
-Lazio fan ⚽. Loyal supporters with a real passion for the game. **Forza Lazio!**
-I once participated in a project that involved building a marketing platform for a telecommunications company in North Macedonia.
+* **Technical Support:** Software troubleshooting, customer support, Zendesk, Windows
+* **Web Development:** HTML, CSS, JavaScript, React, Next.js, PHP
+* **CMS & Design:** WordPress, Elementor, Figma, responsive design
+* **Tools & Technologies:** Git, GitHub, VS Code, Node.js, MySQL, MariaDB
+* **Digital Communications:** Content creation, social media, video editing, and AI tools
+
+## Contact
+
+* **Email:** [sefer.denis@yahoo.com](mailto:sefer.denis@yahoo.com)
+* **LinkedIn:** Denis Sefer
+
+Based in Brussels, Belgium, and open to opportunities that connect technology, web development, and digital communication.
